@@ -32,5 +32,5 @@ sudo chown -R vagrant .kube
  Labs:
  * 3.2.18 - I don't understand the changes needed.  This seems to be old.  I skipped this and moved on the step 19, and everything worked as expected.
  * 3.2.21 - Use the IP address from step `3.2.20` for the *CLUSTER_IP* of `service/registry`
- * 3.2.22 - Use the same IP and just add it to the existing `deamon.json` file - append it to the end as a separate struct.. 
+ * 3.2.22 - Use the same IP and just add it to the existing `daemon.json` file - append it to the end as a separate struct.. 
        
